@@ -1,0 +1,15 @@
+
+
+.container{
+    width: 50%;
+    margin-top: 35px;
+    background-color:beige;
+    padding-bottom: 10px;
+    border-radius: 17%;
+}
+.words{
+    width: auto;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+}
